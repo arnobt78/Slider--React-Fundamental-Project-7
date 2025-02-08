@@ -1,8 +1,11 @@
+
+<img width="849" alt="Screenshot 2025-02-09 at 03 54 08" src="https://github.com/user-attachments/assets/1fa062f9-8d60-4c2d-b70d-bcac79ac981e" />
+
 ## Slider - React Fundamental Project 7
 
 This project demonstrates a simple image slider using React. It includes two implementations: a custom carousel and a carousel using the React Slick library.
 
-**Online Live:**
+**Online Live:** https://slider-arnob.netlify.app/
 
 ### Project Structure
 
